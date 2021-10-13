@@ -29,10 +29,10 @@ Create a 3d map from a bitmap image
 - You can not press the unity play button to move around the map
 
 ## Terrain and Territory Bitmaps
-![](https://github.com/gpelletier0/MapMaker/Assets/Textures/ExampleMap/ExampleTerrain.bmp)<br />
+![](https://github.com/gpelletier0/MapMaker/blob/main/Assets/Textures/ExampleMap/ExampleTerrain.bmp)<br />
 Terrain Bitmap Example
 <br /><br />
-![](https://github.com/gpelletier0/MapMaker/Assets/Textures/ExampleMap/ExampleTerritory.bmp)<br />
+![](https://github.com/gpelletier0/MapMaker/blob/main/Assets/Textures/ExampleMap/ExampleTerritory.bmp)<br />
 Territory Bitmap Example
 <br /><br />
 Created using Paint. The dimenions of the image will define the map size, every pixel encodes the information about one tile.
